@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/RAG-D96500?style=for-the-badge&logo=elastic&logoColor=white" />
   <img src="https://img.shields.io/badge/NLP-7F3FBF?style=for-the-badge&logo=scribd&logoColor=white" />
 </p>
-
+> **Deep in vibe-coding mode – building AI-powered dev tools**
 ---
 
 ### ⚙️ Core Skills
