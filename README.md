@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jorge Simón
 
 ### Computer Engineer focused on Machine Learning, AI, Quant and data-driven systems.
-> *Deep in vibe-coding mode – building AI-powered developer tools*
+> *Totally lobotomized by vibe-coding 😵‍💫 – building AI-powered developer tools* 🤖🛠️
 
 <br/>
 <p align="left">
