@@ -1,6 +1,6 @@
 👋 Hi, I'm Jorge Simón
 
-Computer Engineer focused on Machine Learning, Quantitative Finance, and data-driven systems.
+Computer Engineer focused on Machine Learning, AI, Quant and data-driven systems.
 ---
 ### ⚙️ Core Skills
 - Python (primary), SQL, Java, C/C++
