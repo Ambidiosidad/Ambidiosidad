@@ -1,7 +1,30 @@
 👋 Hi, I'm Jorge Simón
 
 Computer Engineer focused on Machine Learning, AI, Quant and data-driven systems.
-https://camo.githubusercontent.com/405253267926d52e219eea61c8abe046b596a64d0052c9bc7995dbf52bd8b2bd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3335363841333f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465
+<p align="left"> 
+
+  <!-- Python | -->
+  <img src="https://img.shields.io/badge/Python-3568A3?style=for-the-badge&logo=python&logoColor=white"/>
+
+  <!-- PyTorch | -->
+  <img src="https://img.shields.io/badge/PyTorch-C2462B?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+  <!-- LLM |  -->
+  <img src="https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+
+  <!-- Agent -->
+  <img src="https://img.shields.io/badge/Agent-5A2B93?style=for-the-badge&logo=robotframework&logoColor=white"/>
+
+  <!-- Graph Analytics | -->
+  <img src="https://img.shields.io/badge/Graph%20Analytics-3A77D4?style=for-the-badge&logo=neo4j&logoColor=white"/>
+
+  <!-- RAG | -->
+  <img src="https://img.shields.io/badge/RAG-D96500?style=for-the-badge&logo=elastic&logoColor=white"/>
+
+  <!-- NLP | -->
+  <img src="https://img.shields.io/badge/NLP-7F3FBF?style=for-the-badge&logo=scribd&logoColor=white"/>
+
+</p>
 ---
 ### ⚙️ Core Skills
 - Python (primary), SQL, Java, C/C++
