@@ -17,6 +17,7 @@
 ---
 
 ### 📊 Focus Areas
+- AI systems
 - Algorithmic trading & signal design
 - Risk modelling (drawdown, volatility, Sharpe)
 - Predictive systems in dynamic environments
