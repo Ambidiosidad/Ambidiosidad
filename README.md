@@ -26,5 +26,6 @@
 
 ### 🎯 Currently
 **Building ML-driven financial models and scalable research frameworks**
-- [JARVIS](https://github.com/Ambidiosidad/jarvis): Fully offline AI assistant with local voice, memory, and dual-model reasoning for Raspberry Pi.
+- 🤖 [JARVIS](https://github.com/Ambidiosidad/jarvis): Fully offline AI assistant with local voice, memory, and dual-model reasoning for Raspberry Pi.
+
 
